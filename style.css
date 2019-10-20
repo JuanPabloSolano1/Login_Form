@@ -1,0 +1,48 @@
+#result h1{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+#InputEmail{
+  width: 500px;
+}
+#InputPassword{
+  width: 500px;
+}
+#container{
+background-color: #1a2849;
+
+padding-top: 50px;
+padding-bottom: 50px;
+}
+form{
+  margin-left: 100px;
+  color: white;
+}
+#button{
+  margin-top: 50px;
+}
+#nav{
+  color: white !important;
+}
+#result{
+  margin-top: 100px;
+  color: black;
+}
+#formaccount{
+
+}
+#createaccount{
+  margin-top: 30px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+#CreateEmail{
+  width: 500px;
+}
+#CreatePassword{
+  width: 500px;
+}
+#button1{
+  margin-top: 50px;
+}
